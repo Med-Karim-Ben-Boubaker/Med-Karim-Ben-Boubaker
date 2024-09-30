@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Karim Ben Boubaker</h1>
 <h3 align="center">Embedded Software Engineering Student</h3>
 
-- 🔭 I’m currently working on [Embedded Speech Recognition on STM32F4](https://github.com/Med-Karim-Ben-Boubaker/Embedded-Speech-Recognition-STM32F407)
-
-- 🌱 I’m currently learning **FreeRTOS, C, TensorFlow, Deep Learning, DSP, Speech Recognition**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mohamed-karim-ben-boubaker/](https://www.linkedin.com/in/mohamed-karim-ben-boubaker/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mohamed-karim-ben-boubaker/](https://www.linkedin.com/in/mohamed-karim-ben-boubaker/)
-
-- 💬 Ask me about **C, Machine Learning**
-
-- 📫 How to reach me **karimbb2002@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed karim ben boubaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed karim ben boubaker" height="30" width="40" /></a>
