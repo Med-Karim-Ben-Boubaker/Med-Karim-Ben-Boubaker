@@ -40,7 +40,7 @@
 - **[Embedded-Speech-Recognition-STM32F407](https://github.com/Med-Karim-Ben-Boubaker/Embedded-Speech-Recognition-STM32F407)**  
   This project aims to implement a speech command recognition system on an STM32F407 Discovery board.
 
-Check out my other repositories [here](https://github.com/karim-boubaker?tab=repositories)!
+Check out my other repositories [here](https://github.com/Med-Karim-Ben-Boubaker?tab=repositories)!
 
 ---
 
