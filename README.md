@@ -1,21 +1,18 @@
-<h1 align="center">Hi there 👋, I'm Mohamed Karim Ben Boubaker</h1>
-<h3 align="center">🚀 Embedded Software Engineering Student | AI & IoT Enthusiast</h3>
+<h1 align="center">Hi there 👋, I'm Karim</h1>
 
----
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Med-Karim-Ben-Boubaker&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Med-Karim-Ben-Boubaker&theme=radical" alt="GitHub streaks" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Med-Karim-Ben-Boubaker&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Med-Karim-Ben-Boubaker&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Med-Karim-Ben-Boubaker&theme=dark" alt="GitHub streaks" />
+
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I am currently an **Embedded Software Engineering student**, exploring innovative applications in **AI** and **IoT**.
-- 🌱 **Current Focus:** Learning **cloud computing**, **AWS**, and creating impactful **AI projects** in computer vision and NLP.
-- 💡 I am passionate about solving real-world problems with cutting-edge technologies like **AI**, **smart IoT systems**, and **intelligent automation**.
-- 💼 Open to **collaborations** on AI/Embedded Systems projects and **innovative startups**.
+- 🎓 I am currently an **Embedded Software Engineering student**.
+- 🌱 **Current Focus:** Learning **AWS Cloud Computing**, **DevOps**, and creating impactful **AI projects** in Computer Vision and NLP.
+- 💼 Open to **collaborations** on AI Software projects and **innovative startups**.
 
 ---
 
@@ -37,6 +34,8 @@
 ---
 
 ### 🌟 Featured Projects
+- **[Localume](https://github.com/Med-Karim-Ben-Boubaker/localume)**  
+  A modern desktop application for semantic file search and real-time monitoring using vector embeddings
 - **[Embedded-Speech-Recognition-STM32F407](https://github.com/Med-Karim-Ben-Boubaker/Embedded-Speech-Recognition-STM32F407)**  
   This project aims to implement a speech command recognition system on an STM32F407 Discovery board.
 
@@ -47,14 +46,9 @@ Check out my other repositories [here](https://github.com/Med-Karim-Ben-Boubaker
 ### 🎯 Current Goals
 - 🛠️ Building a **smart file search system** using **vector embeddings** and **embedding search algorithms**.
 - 🚀 Exploring **DevOps** to understand software project best practices.
-- 📘 Learning **AWS services** and **cloud-based solutions** for scalable IoT applications.
+- 📘 Learning **AWS services** and **cloud-based solutions** for scalable software applications.
 
----
 
-### 🌈 Fun Facts & Hobbies
-- ✨ I enjoy building software applications, reading about philosophy, and exploring new ideas the most!
-
----
 
 ### 📫 Let's Connect
 <p align="left">
