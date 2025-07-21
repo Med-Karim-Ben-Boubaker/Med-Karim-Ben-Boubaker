@@ -3,7 +3,7 @@ Building intelligent systems that bridge AI and real-world applications
 
 ### 👨‍💻 About Me
 
--🎓 Intelligent Systems Engineering Student at INSAT, specializing in the intersection of robotics, embedded systems, and artificial intelligence.
+🎓 Intelligent Systems Engineering Student at INSAT, specializing in the intersection of robotics, embedded systems, and artificial intelligence.
 
 💼 Open to collaborations on AI software projects and innovative startups that push the boundaries of what's possible.
 
